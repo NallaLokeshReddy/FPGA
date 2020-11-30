@@ -1,0 +1,4 @@
+This folder contains file related to Verilog code for creating blanking time or Dead time for the power converter switches. This code has 12 input pulses and are provided with
+a dead time of 1us. 
+
+The target device used is CMOD-S6 (Spartan 6, XC6SLX4-2CPG196).
